@@ -1,9 +1,13 @@
 Python IDE (Simple Edition)
-is made by GreenMan6300 (or just GreenMan)
-That is a IDE made for Python.
-This is made in Python (Python makes Python IDE Lol)
+a random python script that is supposed to be a Python IDE,
+The thing is not actully really IDE as it's more of a low quality Text editor.
 
-Now to open the program you must not open the .py just by clicking it, you must be in terminal and the do cd to the directory of where the .py is and then type python Main.py (fun fact: typing python then just type m and press tab!). instead of using the terminal to open the program, you can just use another IDE to start the program.
+The Python Script uses Tkinter to create the window as it comes whit Python, if you then included it when installing Python.
 
-This is for everyone to mess whit and add some new features.
-(Also this is basically not even a IDE)
+There are features that im planning to add so theres more stuff than a Save button and the Funny Button.
+If you wanna add some stuff to this Python Script then i have put a comment per line that explains what things are.
+
+If you are on Linux Mint, Tkinter does not come installed meaning you need to install Tkinter to then run the Python Script.
+You do not have to do anything about it if you already have installed Tkinter.
+
+Python IDE (Simple Edition) Created by GreenMan6300
